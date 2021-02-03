@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+}
+
+body {
+  font-size: 30px;
+}
+
+body h1 {
+  font-size: 80px;
+}
+
+body div {
+  font-size: 30px;
+}
+
+.red {
+  color: red;
+}
+
+@media (max-width: 767px) {
+  .red {
+    border: 0;
+  }
+}
